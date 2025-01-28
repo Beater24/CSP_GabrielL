@@ -1,3 +1,3 @@
 #Gabriel Lopez, Variables Notes
 
-print("It worked")
+print("It worked!")
