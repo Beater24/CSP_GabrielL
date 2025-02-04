@@ -1,4 +1,7 @@
-# Gabriel Lopez, Variables Practice on Python 
+
+
+
+# Gabriel Lopez, Variables Practice on Python
 name = "Gabriel Lopez"
 number_1_to_10 = 6
 number_100_to_1000 = 454
