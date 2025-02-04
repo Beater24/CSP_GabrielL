@@ -1,3 +1,4 @@
+// Gabriel Lopez, TEMPLATE
 #include <stdio.h>
 
 char name[] = "Gabriel";

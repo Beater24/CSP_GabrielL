@@ -6,8 +6,8 @@ name = input ("What is your name: ")
 
 small_number = 4
 
-NBA_team = input("What is your favorite NBA team: ")
-NFL_team = input("What is your favorite NFL team: ")
+nba_team = input("What is your favorite NBA team: ")
+nfl_team = input("What is your favorite NFL team: ")
 
-print(name, "is a fan of the", NBA_team)
-print(name, "is a fan of the", NFL_team)
+print(name, "is a fan of the", nba_team)
+print(name, "is a fan of the", nfl_team)

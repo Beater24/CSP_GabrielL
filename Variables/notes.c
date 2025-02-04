@@ -1,12 +1,16 @@
+//
 #include <stdio.h>
 
-char name[] = "Gabriel";
-int age = 14;
-float pi = 3.14;
+char name[20]; 
+int age;
+float pi;
 
 int main(void){
-    printf("Hello I am %s. I am %d years old. and i like the number %f.\n", name);
-    printf("%d\n", age);
-    printf("%f\n", pi);
+    printf("Welcome, what is your name: \n");
+    scanf("%s", name);
+    printf("How old are you: \n");
+    scanf("%d", &age);
+    printf("Hello I am %s. I am %d years old")
+    //printf("%s\n", name);
     return 0;
 }
