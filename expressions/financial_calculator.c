@@ -1,4 +1,4 @@
-// Gabriel Lopez, TEMPLATE
+//Gabriel Lopez, Financial Calculator on C
 #include <stdio.h>
 
 int main(void){
