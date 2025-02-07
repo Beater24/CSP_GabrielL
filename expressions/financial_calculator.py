@@ -1,7 +1,7 @@
 #Gabriel Lopez, Financial Calculator on Python
 
 # print statement that welcomes user and tells what program does
-
+print("Welcome to the Financial Caluculator, This program is designed to calculate what percentage of your monthly income should you be saving.")
 # ask what their income is (variable an input)
 income = float(input("What is your monthly income?\n"))
 # ask what their rent is (variable an input)
@@ -14,6 +14,7 @@ groceries = float(input("What is your monthly expense for groceries?\n"))
 transportation = float(input("What is your monthly expense for transportation?\n"))
 # calculate savings as 10% of income (income*.1) (variable)
 savings = (income/10)
+saving_goal = (savings/income *100)
 # calculate spending as income-savings-rent-utilities-groceries-transportation (variable)
 spending = (income - (rent + utilites + groceries + transportation))
 # calculate percent income of rent (rent/income *100) (variable)
@@ -23,17 +24,19 @@ income_of_utilities = (utilites/income *100)
 # calculate percent income of groceries (groceries/income *100) (variable)
 income_of_groceries = (groceries/income *100)
 # calculate percent income of transportation (transportation/income *100) (variable)
-
+income_of_tp = (transportation/income *100)
 # calculate percent income of spending (spending/income *100) (variable)
-
+income_of_spending = (spending/income *100)
 # Your rent is $XX.XX which is XX% of your income. (Print)
-
+print("Your rent is", round(rent, 2), "which is", round(income_of_rent,2),"%, of your monthly income")
 # Your utlities is $XX.XX which is XX% of your income. (Print)
-
+print("Your utilities is", round(utilites, 2), "which is", round(income_of_utilities,2),"%, of your monthly income")
 # Your groceries is $XX.XX which is XX% of your income. (Print)
-
+print("Your groceries is", round(groceries, 2), "which is", round(income_of_groceries,2),"%, of your monthly income")
 # Your transportation is $XX.XX which is XX% of your income. (Print)
-
+print("Your transportation is", round(transportation, 2), "which is", round(income_of_tp,2),"%, of your monthly income")
 # Your savings is $XX.XX which is XX% of your income. (Print)
-
+print("Your savings is", round(savings, 2), "which is", round(saving_goal,2),"%, of your monthly income")
 # Your spendings is $XX.XX which is XX% of your income. (Print)
+print("Your spendings is", round(spending, 2), "which is", round(income_of_spending,2),"%, of your monthly income")
+print("Thank you for using the Financial Calculator!")
