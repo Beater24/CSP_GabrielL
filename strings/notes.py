@@ -8,3 +8,5 @@ print(f"Hello", name, "welcome to my house.")
 
 #when we get syntax erroes it is because we didn't do things correctly. 
 
+
+
