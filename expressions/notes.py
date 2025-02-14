@@ -2,7 +2,7 @@
 #print(70-8)
 #print(70*8)
 #print(70/8)
-#print(70//8)
+print(70//8)
 #print(70**8) #interger division returns just the whole number
 #print(70%8) #Modulo/Modulus/MOD return the remainder
 #They all work as variables
