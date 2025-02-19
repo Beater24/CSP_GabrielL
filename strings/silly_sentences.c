@@ -1,4 +1,4 @@
-//Gabriel Lopez, Silly sentences on C
+//Gabriel Lopez, Silly Sentences on C
 #include <stdio.h>
 //empty string variables for user words (minimum 3)
 char noun[50];
