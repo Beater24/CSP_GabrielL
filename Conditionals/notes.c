@@ -25,6 +25,8 @@ if(num == 0){
 }else{
     printf("You have a lot of siblings\n");
 }
+return 0;
+}
 
 
 //13. How do you write the 3 logical operators in C?
