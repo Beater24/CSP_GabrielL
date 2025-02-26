@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <string.h> // Needed to compare strings
 
-char name[]= "Papi";
+char name[]= "Vienna";
 int num;
 int main(void){
 //10. How do you write an if statement in C?
