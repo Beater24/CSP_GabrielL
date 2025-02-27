@@ -1,4 +1,4 @@
-// Gabriel Lopez, Old Enough on C 11
+// Gabriel Lopez, Old Enough on C
 #include <stdio.h>
 
 int main(void){
