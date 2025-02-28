@@ -1,8 +1,9 @@
+
 // Gabriel Lopez, Old Enough on C
 #include <stdio.h>
 
 int main(void){
-    printf("Welcome, This program is meant to tell what you can do at the age you are.")
+    printf("Welcome, This program is meant to tell what you can do at the age you are.");
     int age; 
     printf("How old are you?\n");
     scanf("%d", &age);
