@@ -1,6 +1,10 @@
 #Gabriel Lopez, Updated First Program on Python
 
-name = input("what is your name")
+def greet(name):
+    print(f"Hello, {name}!")
 
-print("Hello there",name)
-
+greet("Alice")
+greet("Bob")
+greet("Charlie")
+greet("David")
+greet("Eve")
