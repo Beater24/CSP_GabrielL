@@ -1,4 +1,4 @@
-// Gabriel Lopez, Time of Day on C
+// Gabriel Lopez, Time of Day on C 
 
 #include <stdio.h>
 #include <time.h>
