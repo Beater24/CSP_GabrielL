@@ -7,7 +7,7 @@ def info(cost, income, type):
     print(f"Your {type} is ${cost:.2f} which is {percent}% of your income.")
 
 def get_user_input(prompt):
-    """Function to get user input as a float (without loops or conditionals)."""
+    #Function to get user input as a float (without loops or conditionals).
     return float(input(prompt))
 
 income = get_user_input("What is your monthly income?\n")
