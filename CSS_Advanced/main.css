@@ -1,0 +1,24 @@
+*{
+    background-color: antiquewhite;
+    color: rgb(203, 77, 19);
+    font-family: "Ballet", cursive;
+
+}
+p{
+    background-color: rgba(255,255,255, 0.556);
+    height: 50px;
+    width: 50px;
+    padding: 10px;
+    margin: 2px; 
+}
+#content{
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+}
+#main{
+    display: flex;
+    flex-wrap: wrap;
+}
+img{
+    height: 600px;
+}
