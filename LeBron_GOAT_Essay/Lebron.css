@@ -1,0 +1,64 @@
+*{
+    background-color: #552583;
+    color:#FDB927;
+}
+#Title{
+font-family: "Dancing Script", cursive;
+font-size:xx-large;
+text-align: center;
+}
+#secondheading{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+#thirdheading{
+font-family: "Dancing Script", cursive;
+font-size: x-large;
+text-align: center;
+}
+#thirdpgraph{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: smaller;
+}
+#undertext{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: smaller;
+}
+#listofplayers{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+#finallink{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+#undertext2{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: smaller;
+}
+
+#lakers img{
+width: 500px;
+height: auto;
+padding: 2px;
+margin: 25px;
+}
+
+
+
+#crashout img{
+width: 500px;
+height: auto;
+padding: 2px;
+margin: 25px;
+}
+
+#scream img{
+    width: 500px;
+    height: auto;
+    padding: 2px;
+    margin: 25px;
+    }
+
+#leimage{
+    display: flex;
+    flex-wrap: wrap;
+}
