@@ -33,11 +33,25 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
 #undertext2{
 font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 font-size: smaller;
+}#problem{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+#thehidden{
+    display: none;
+}
+#howtitle{
+    font-family: "Dancing Script", cursive;
+    font-size: x-large;
+    text-align: center;
+    }
+    #howpgraph{
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: smaller;
+    }
 
 #lakers img{
-width: 500px;
-height: auto;
+width: auto;
+height: 500px;
 padding: 2px;
 margin: 25px;
 }
@@ -45,18 +59,20 @@ margin: 25px;
 
 
 #crashout img{
-width: 500px;
-height: auto;
+width: auto;
+height: 500px;
 padding: 2px;
 margin: 25px;
 }
 
-#scream img{
-    width: 500px;
-    height: auto;
-    padding: 2px;
-    margin: 25px;
-    }
+    #edwards img{
+        width: auto;
+        height: 500px;
+        padding: 2px;
+        margin: 25px;
+        }
+
+
 
 #leimage{
     display: flex;
