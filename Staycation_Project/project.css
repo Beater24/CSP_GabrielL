@@ -1,0 +1,26 @@
+
+#title{
+    text-align: center;
+    color:#F9A01B;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#about{
+    text-align:center;
+    color:#F9A01B;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#pgraph1{
+    color: #00471B;
+    background-color: #F9A01B;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#image1{
+    color:#00471B;
+    background-color:#F9A01B;
+    width: 500px;
+    height: 400px;
+}
+#downtown{
+    height: 250px;
+    width: auto;
+}
